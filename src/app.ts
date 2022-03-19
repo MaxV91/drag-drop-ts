@@ -43,7 +43,7 @@ class ProjectInput {
     const enteredPeople = this.peopleInputElement.value;
 
     if (enteredTitle.trim().length === 0 || enteredDescription.trim().length === 0 || enteredPeople.trim().length === 0) {
-      alert('invalid');
+      alert('invalid str');
       return;
     } else {
       return [enteredTitle, enteredDescription, +enteredPeople];
