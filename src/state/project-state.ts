@@ -51,4 +51,3 @@ namespace App {
 
   export const projectState = ProjectState.getInstance();
 }
-
