@@ -1,5 +1,5 @@
 npm i
 
-npm start
+tsc
 
-tsc -w
+npm start
