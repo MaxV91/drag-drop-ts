@@ -1,5 +1,5 @@
-npm i
+a simple drag and drop app based on typescript
 
-tsc
+development: npm run start
 
-npm start
+production: npm run build
