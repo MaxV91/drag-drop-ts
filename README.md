@@ -1,5 +1,12 @@
-a simple drag and drop app based on typescript
+## A simple drag and drop app based on typescript
 
-development: npm run start
+###development: 
+```bash
+npm run start
+```
 
-production: npm run build
+
+###production: 
+```bash
+npm run build
+```
